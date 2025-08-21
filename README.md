@@ -3,4 +3,7 @@ This is a running documentation comprising of a parts-list and lessons learned w
 
 # Parts List
 
----
+| Part          | Amazon Link   | Quantity      |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | ------------- |
+| Content Cell  | Content Cell  | ------------- |
