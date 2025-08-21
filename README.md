@@ -5,5 +5,5 @@ This is a running documentation comprising of a parts-list and lessons learned w
 
 | Part          | Amazon Link   | Quantity      |
 | ------------- | ------------- | ------------- |
-| 250mm T Slot 2020 Aluminum Extrusion Anodized Linear Rail | [https://a.co/d/9mYUrdb](https://a.co/d/9mYUrdb)  | /(2x/) |
+| 250mm T Slot 2020 Aluminum Extrusion Anodized Linear Rail | [https://a.co/d/9mYUrdb](https://a.co/d/9mYUrdb)  | \(2x\) |
 | Content Cell  | Content Cell  | ------------- |
