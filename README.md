@@ -4,7 +4,7 @@ This is a running documentation comprising of a parts-list and lessons learned w
 # Parts List
 
 | Part          | Amazon Link   | Quantity      |
-| ------------- | ------------- | ------------- |
+| :-- | :-- | :-- |
 | 250mm T Slot 2020 Aluminum Extrusion Anodized Linear Rail | [https://a.co/d/9mYUrdb](https://a.co/d/9mYUrdb)  | \(2x\) |
 | 400mm T Slot 2020 Aluminum Extrusion Anodized Linear Rail | [https://a.co/d/8vcnKpw](https://a.co/d/8vcnKpw) | \(1x\) |
 | 200pcs M5 T-Nuts Screws Kit for 2020 2040 8020 Series Aluminum Extrusion | [https://a.co/d/22AuSf7](https://a.co/d/22AuSf7) | \(1x\) |
